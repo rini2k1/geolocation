@@ -1,0 +1,375 @@
+[
+    [
+        "/Users/nilakshiasthana/Documents/Salesforce/Test/geolocation/force-app",
+        {
+            "sourcePath": "/Users/nilakshiasthana/Documents/Salesforce/Test/geolocation/force-app",
+            "isDirectory": true,
+            "size": 102,
+            "modifiedTime": 1512138955000,
+            "changeTime": 1512138955000,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/nilakshiasthana/Documents/Salesforce/Test/geolocation/force-app/main",
+        {
+            "sourcePath": "/Users/nilakshiasthana/Documents/Salesforce/Test/geolocation/force-app/main",
+            "isDirectory": true,
+            "size": 102,
+            "modifiedTime": 1512138955000,
+            "changeTime": 1512138955000,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/nilakshiasthana/Documents/Salesforce/Test/geolocation/force-app/main/default",
+        {
+            "sourcePath": "/Users/nilakshiasthana/Documents/Salesforce/Test/geolocation/force-app/main/default",
+            "isDirectory": true,
+            "size": 238,
+            "modifiedTime": 1512164529000,
+            "changeTime": 1512164529000,
+            "contentHash": "b443158adc69cfd43a4521fdf9981515deab156c",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/nilakshiasthana/Documents/Salesforce/Test/geolocation/force-app/main/default/aura",
+        {
+            "sourcePath": "/Users/nilakshiasthana/Documents/Salesforce/Test/geolocation/force-app/main/default/aura",
+            "isDirectory": true,
+            "size": 68,
+            "modifiedTime": 1512138955000,
+            "changeTime": 1512138955000,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/nilakshiasthana/Documents/Salesforce/Test/geolocation/force-app/main/default/classes",
+        {
+            "sourcePath": "/Users/nilakshiasthana/Documents/Salesforce/Test/geolocation/force-app/main/default/classes",
+            "isDirectory": true,
+            "size": 272,
+            "modifiedTime": 1512140293000,
+            "changeTime": 1512140293000,
+            "contentHash": "6701a05fa0491896d556fd9c6886bcaa449768b6",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/nilakshiasthana/Documents/Salesforce/Test/geolocation/force-app/main/default/classes/AccountController.cls",
+        {
+            "sourcePath": "/Users/nilakshiasthana/Documents/Salesforce/Test/geolocation/force-app/main/default/classes/AccountController.cls",
+            "isDirectory": false,
+            "size": 88,
+            "modifiedTime": 1512139990000,
+            "changeTime": 1512139990000,
+            "contentHash": "6ee7b968c3fdc18a21fccb9c245e392c62dfd374",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/nilakshiasthana/Documents/Salesforce/Test/geolocation/force-app/main/default/classes/AccountController.cls-meta.xml",
+        {
+            "sourcePath": "/Users/nilakshiasthana/Documents/Salesforce/Test/geolocation/force-app/main/default/classes/AccountController.cls-meta.xml",
+            "isDirectory": false,
+            "size": 195,
+            "modifiedTime": 1512139990000,
+            "changeTime": 1512139990000,
+            "contentHash": "cc0a2dcbacbf3621f3b3ac19658879090926c15f",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/nilakshiasthana/Documents/Salesforce/Test/geolocation/force-app/main/default/classes/CaseController.cls",
+        {
+            "sourcePath": "/Users/nilakshiasthana/Documents/Salesforce/Test/geolocation/force-app/main/default/classes/CaseController.cls",
+            "isDirectory": false,
+            "size": 157,
+            "modifiedTime": 1512140810000,
+            "changeTime": 1512140810000,
+            "contentHash": "48506533461e26892f0b77b3be19c6b5acbd2972",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/nilakshiasthana/Documents/Salesforce/Test/geolocation/force-app/main/default/classes/CaseController.cls-meta.xml",
+        {
+            "sourcePath": "/Users/nilakshiasthana/Documents/Salesforce/Test/geolocation/force-app/main/default/classes/CaseController.cls-meta.xml",
+            "isDirectory": false,
+            "size": 192,
+            "modifiedTime": 1512140234000,
+            "changeTime": 1512140234000,
+            "contentHash": "e89668b5750f38216b81e2f42c8cc5a7c94a5216",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/nilakshiasthana/Documents/Salesforce/Test/geolocation/force-app/main/default/classes/CaseControllerTest.cls",
+        {
+            "sourcePath": "/Users/nilakshiasthana/Documents/Salesforce/Test/geolocation/force-app/main/default/classes/CaseControllerTest.cls",
+            "isDirectory": false,
+            "size": 311,
+            "modifiedTime": 1512142418000,
+            "changeTime": 1512142418000,
+            "contentHash": "9a3b670a615c678aecf0738d12a32741420e551a",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/nilakshiasthana/Documents/Salesforce/Test/geolocation/force-app/main/default/classes/CaseControllerTest.cls-meta.xml",
+        {
+            "sourcePath": "/Users/nilakshiasthana/Documents/Salesforce/Test/geolocation/force-app/main/default/classes/CaseControllerTest.cls-meta.xml",
+            "isDirectory": false,
+            "size": 196,
+            "modifiedTime": 1512140293000,
+            "changeTime": 1512140293000,
+            "contentHash": "803d638cb0fa3b21bbc1c08e97af988eb0a51459",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/nilakshiasthana/Documents/Salesforce/Test/geolocation",
+        {
+            "sourcePath": "/Users/nilakshiasthana/Documents/Salesforce/Test/geolocation",
+            "isDirectory": true,
+            "size": 340,
+            "modifiedTime": 1512140565000,
+            "changeTime": 1512140565000,
+            "contentHash": "8007c8c0d1806cbcc42c41a202c395e4140f7e45",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/nilakshiasthana/Documents/Salesforce/Test/geolocation/force-app/main/default/objects/Case/fields/Substatus__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/nilakshiasthana/Documents/Salesforce/Test/geolocation/force-app/main/default/objects/Case/fields/Substatus__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1449,
+            "modifiedTime": 1512164858000,
+            "changeTime": 1512164858000,
+            "contentHash": "f3f11a1589e15098cf704329212499d50d95a251"
+        }
+    ],
+    [
+        "/Users/nilakshiasthana/Documents/Salesforce/Test/geolocation/force-app/main/default/layouts/Case-Case %28Marketing%29 Layout.layout-meta.xml",
+        {
+            "sourcePath": "/Users/nilakshiasthana/Documents/Salesforce/Test/geolocation/force-app/main/default/layouts/Case-Case %28Marketing%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 11853,
+            "modifiedTime": 1512164529000,
+            "changeTime": 1512164529000,
+            "contentHash": "8a3a0e467b1e08696fae74270cc6200995e9fbc9",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/nilakshiasthana/Documents/Salesforce/Test/geolocation/force-app/main/default/layouts/CaseClose-Close Case Layout.layout-meta.xml",
+        {
+            "sourcePath": "/Users/nilakshiasthana/Documents/Salesforce/Test/geolocation/force-app/main/default/layouts/CaseClose-Close Case Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 1290,
+            "modifiedTime": 1512164529000,
+            "changeTime": 1512164529000,
+            "contentHash": "ed9bfd9d5ee5c336e8e4735f8e8d2cdcc0616cc5",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/nilakshiasthana/Documents/Salesforce/Test/geolocation/force-app/main/default/layouts/Case-Case Layout.layout-meta.xml",
+        {
+            "sourcePath": "/Users/nilakshiasthana/Documents/Salesforce/Test/geolocation/force-app/main/default/layouts/Case-Case Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 12048,
+            "modifiedTime": 1512164529000,
+            "changeTime": 1512164529000,
+            "contentHash": "5e2588a1b80ac9f58217d40886388ace0241dc3b",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/nilakshiasthana/Documents/Salesforce/Test/geolocation/force-app/main/default/layouts/Case-Case %28Support%29 Layout.layout-meta.xml",
+        {
+            "sourcePath": "/Users/nilakshiasthana/Documents/Salesforce/Test/geolocation/force-app/main/default/layouts/Case-Case %28Support%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 12052,
+            "modifiedTime": 1512164529000,
+            "changeTime": 1512164529000,
+            "contentHash": "409de689c47ce1317dad1428803b7680667f62cf",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/nilakshiasthana/Documents/Salesforce/Test/geolocation/force-app/main/default/layouts/Case-Case %28Sales%29 Layout.layout-meta.xml",
+        {
+            "sourcePath": "/Users/nilakshiasthana/Documents/Salesforce/Test/geolocation/force-app/main/default/layouts/Case-Case %28Sales%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 11853,
+            "modifiedTime": 1512164529000,
+            "changeTime": 1512164529000,
+            "contentHash": "f92506e65a17ea1346ba5c5477c0956d6e1c9523",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/nilakshiasthana/Documents/Salesforce/Test/geolocation/force-app/main/default/profiles/Admin.profile-meta.xml",
+        {
+            "sourcePath": "/Users/nilakshiasthana/Documents/Salesforce/Test/geolocation/force-app/main/default/profiles/Admin.profile-meta.xml",
+            "isDirectory": false,
+            "size": 17149,
+            "modifiedTime": 1512164529000,
+            "changeTime": 1512164529000,
+            "contentHash": "a66030dc2da6fbbf73ae6d383b109ed2fdd3b0aa",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/nilakshiasthana/Documents/Salesforce/Test/geolocation/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "sourcePath": "/Users/nilakshiasthana/Documents/Salesforce/Test/geolocation/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "size": 4463,
+            "modifiedTime": 1512164529000,
+            "changeTime": 1512164529000,
+            "contentHash": "60ccf40c4631bee9c905d8e0339d547fdcd17aad",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/nilakshiasthana/Documents/Salesforce/Test/geolocation/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "sourcePath": "/Users/nilakshiasthana/Documents/Salesforce/Test/geolocation/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "size": 4467,
+            "modifiedTime": 1512164529000,
+            "changeTime": 1512164529000,
+            "contentHash": "19ececed138f7994917d8a96f9fa0726fde47515",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/nilakshiasthana/Documents/Salesforce/Test/geolocation/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+        {
+            "sourcePath": "/Users/nilakshiasthana/Documents/Salesforce/Test/geolocation/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "size": 4803,
+            "modifiedTime": 1512164529000,
+            "changeTime": 1512164529000,
+            "contentHash": "05933bb306471440b8b49c6f2f0673ce648810b9",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/nilakshiasthana/Documents/Salesforce/Test/geolocation/force-app/main/default/objects/Case/fields",
+        {
+            "sourcePath": "/Users/nilakshiasthana/Documents/Salesforce/Test/geolocation/force-app/main/default/objects/Case/fields",
+            "isDirectory": true,
+            "size": 102,
+            "modifiedTime": 1512164529000,
+            "changeTime": 1512164529000,
+            "contentHash": "60f3c6362560e4e60368cc5490a30fe94d8b767f",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/nilakshiasthana/Documents/Salesforce/Test/geolocation/force-app/main/default/objects/Case",
+        {
+            "sourcePath": "/Users/nilakshiasthana/Documents/Salesforce/Test/geolocation/force-app/main/default/objects/Case",
+            "isDirectory": true,
+            "size": 102,
+            "modifiedTime": 1512164529000,
+            "changeTime": 1512164529000,
+            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/nilakshiasthana/Documents/Salesforce/Test/geolocation/force-app/main/default/objects",
+        {
+            "sourcePath": "/Users/nilakshiasthana/Documents/Salesforce/Test/geolocation/force-app/main/default/objects",
+            "isDirectory": true,
+            "size": 102,
+            "modifiedTime": 1512164529000,
+            "changeTime": 1512164529000,
+            "contentHash": "9254c4bba00f5ff69304a7921d3118fcbac7e6b8",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/nilakshiasthana/Documents/Salesforce/Test/geolocation/force-app/main/default/layouts",
+        {
+            "sourcePath": "/Users/nilakshiasthana/Documents/Salesforce/Test/geolocation/force-app/main/default/layouts",
+            "isDirectory": true,
+            "size": 238,
+            "modifiedTime": 1512164529000,
+            "changeTime": 1512164529000,
+            "contentHash": "ac6c3774a01fd4442bb277c304be6628331de801",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/nilakshiasthana/Documents/Salesforce/Test/geolocation/force-app/main/default/profiles",
+        {
+            "sourcePath": "/Users/nilakshiasthana/Documents/Salesforce/Test/geolocation/force-app/main/default/profiles",
+            "isDirectory": true,
+            "size": 204,
+            "modifiedTime": 1512164529000,
+            "changeTime": 1512164529000,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ]
+]
